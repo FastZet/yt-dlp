@@ -653,6 +653,7 @@ from .foxnews import (
     FoxNewsVideoIE,
 )
 from .foxsports import FoxSportsIE
+from .fpo import FpoIE
 from .fptplay import FptplayIE
 from .francaisfacile import FrancaisFacileIE
 from .franceinter import FranceInterIE
